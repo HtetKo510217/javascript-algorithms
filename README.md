@@ -6,10 +6,17 @@ This repository contains a collection of JavaScript algorithms for various commo
 
 This repository contains the following algorithms:
 
-Searching
-Binary Search
-Linear Search
-Sorting
-Bubble Sort
-Selection Sort
-Insertion Sort
+- Searching
+
+* Binary Search
+
+- Linear Search
+
+* Sorting
+
+- Bubble Sort
+
+* Selection Sort
+* Insertion Sort
+
+* Mathematical Concept
