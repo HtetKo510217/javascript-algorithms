@@ -16,7 +16,8 @@ This repository contains the following algorithms:
 
 - Bubble Sort
 
-* Selection Sort
+* Quick Sort
 * Insertion Sort
+* Merge Sort
 
 * Mathematical Concept
